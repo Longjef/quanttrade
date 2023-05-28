@@ -2,7 +2,7 @@ import {d as a, c as n, a as e, b as _, p as c, e as l, f as s, o as d, _ as r, 
 
 const t = o => (c("data-v-8e47ac0b"), o = o(), l(), o), u = {class: "home"},
     p = {class: "d-flex justify-content-center"}, h = t(() => e("hr", null, null, -1)),
-    m = t(() => e("div", {title: "Freqtrade logo", class: "logo-svg my-5 mx-auto"}, null, -1)),
+    m = t(() => e("div", {title: "Quanttrade logo", class: "logo-svg my-5 mx-auto"}, null, -1)),
     f = t(() => e("div", null, [e("h1", null, "Welcome to the Quanttrade")], -1)),
     v = t(() => e("div", null, "Quanttrade包含QuantAI模块、超级优化、数据回测、策略执行及控制.", -1)),
     w = t(() => e("br", null, null, -1)),
